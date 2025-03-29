@@ -19,6 +19,8 @@ A powerful and user-friendly calculator built with React, featuring real-time ca
 ---
 
 ![Screenshot](./src/assets/images/screenshot.png)
+![Screenshot](./src/assets/images/screenshot2.png)
+![Screenrecording](./src/assets/images/ScreenRecording.mp4)
 
 ---
 
