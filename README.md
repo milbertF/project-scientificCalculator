@@ -1,12 +1,64 @@
-# React + Vite
+# Scientific Calculator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Created by Falcasantos and Villares
 
-Currently, two official plugins are available:
+A powerful and user-friendly calculator built with React, featuring real-time calculations, history tracking, scientific functions, and keyboard support. Designed for efficiency and accuracy.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Demo:** [Scientific Calculator](https://scientific-calculator-v07.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Perform basic and scientific calculations
+- History tracking for previous calculations
+- Supports keyboard input for fast operation
+- Responsive and user-friendly interface
+- 3D Effects
+
+---
+
+![Screenshot](./src/assets/images/screenshot.png)
+
+---
+
+## Technologies Used
+
+- HTML, CSS, JavaScript
+- React
+- LocalStorage
+
+---
+
+## Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/milbertF/project-scientificCalculator
+cd scientificCalculator
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run the App
+
+```bash
+npm run dev
+```
+
+## Contributing
+
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact:
+
+If you have any questions, feel free to reach out! [mfalcasantos23@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mfalcasantos23@gmail.com) send your thoughts and suggestions here.
